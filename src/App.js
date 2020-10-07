@@ -22,6 +22,7 @@ class App extends Component {
           <Tab name="THREE" bg="orange" />
         </TabComponent>
         <br />
+        <br />
       </div>
     );
   }
