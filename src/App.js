@@ -17,9 +17,9 @@ class App extends Component {
         <Counter />
         <Carousel picList={picList} />
         <TabComponent >
-          <Tab name="ONE" bg="salmon" />
-          <Tab name="TWO" bg="lime" />
-          <Tab name="THREE" bg="orange" />
+          <Tab name="1" bg="salmon" />
+          <Tab name="2" bg="lime" />
+          <Tab name="3" bg="orange" />
         </TabComponent>
         <br />
         <br />
